@@ -19,5 +19,7 @@ public class App
   public static void main( String[] args )
   {
     System.out.println(App.add( 8, 3)); 
+    System.out.println(App.multiply( 8, 3));
+    System.out.println(App.divide( 8, 3));
   }
 }
